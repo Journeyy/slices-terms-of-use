@@ -31,7 +31,7 @@ Thanks for using Slices! Slices is a platform through which companies can create
 - **4.1.11** Violate applicable law.
 
 ## 5. Privacy
-**5.1**	In the course of using the Services, you may submit content to Slices, which in some cases includes your personal data. We respect your privacy and the personal data you provide us with, is treated with the greatest possible care and scrutiny. Slices’ [Privacy Statement](https://github.com/Journeyy/slices-privacy-statement/blob/master/slices-privacy-statement.md) details how we treat your personal data.
+**5.1**	In the course of using the Services, you may submit content to Slices, which in some cases includes your personal data. We respect your privacy and the personal data you provide us with, is treated with the greatest possible care and scrutiny. Slices’ [Privacy Statement](https://github.com/SlicesTinker/slices-privacy-statement/blob/master/slices-privacy-statement.md) details how we treat your personal data.
 
 ## 6. Changes and Updates
 **6.1**	We may change these Terms at any time for a variety of reasons, such as to reflect changes in applicable law or updates to Services, and to account for new Services. We will post updated Terms and indicate the date of revision. All new and/or revised Terms take effect immediately and apply to our use of the Services from that date on. Your continued use of our Services after new and/or revised Terms are effective indicates that you have read, understood, and agreed to those Terms.  
